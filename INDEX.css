@@ -1,0 +1,10 @@
+.CONTAINER{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.tr{
+    background-color:chocolate;
+}
+th{
+    background-color: antiquewhite;
+}
